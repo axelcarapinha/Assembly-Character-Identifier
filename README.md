@@ -70,11 +70,11 @@ It should appear:
   -  a new image file with a small yellow cross made in the head of the chosen character
 
 ## Results
-![Starting image](https://github.com/axelcarapinha/Assembly-Character-Identifier/edit/main/images/original.png)
+![Starting image](https://raw.githubusercontent.com/axelcarapinha/Assembly-Character-Identifier/main/images/original.png)
 
-![Character 1](https://github.com/axelcarapinha/Assembly-Character-Identifier/edit/main/images/leftCharacter.png)
-![Character 2](https://github.com/axelcarapinha/Assembly-Character-Identifier/edit/main/images/middleCharacter.png)
-![Character 3](https://github.com/axelcarapinha/Assembly-Character-Identifier/edit/main/images/rightCharacter.png)
+![Character 1](https://raw.githubusercontent.com/axelcarapinha/Assembly-Character-Identifier/main/images/leftCharacter.png)
+![Character 2](https://raw.githubusercontent.com/axelcarapinha/Assembly-Character-Identifier/main/images/middleCharacter.png)
+![Character 3](https://raw.githubusercontent.com/axelcarapinha/Assembly-Character-Identifier/main/images/rightCharacter.png)
 
 
 
