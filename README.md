@@ -70,8 +70,10 @@ It should appear:
   -  a new image file with a small yellow cross made in the head of the chosen character
 
 ## Results
+### Starting image
 ![Starting image](https://raw.githubusercontent.com/axelcarapinha/Assembly-Character-Identifier/main/images/original.png)
 
+### Results (each choosing a different character from the 3 available)
 ![Character 1](https://raw.githubusercontent.com/axelcarapinha/Assembly-Character-Identifier/main/images/leftCharacter.png)
 ![Character 2](https://raw.githubusercontent.com/axelcarapinha/Assembly-Character-Identifier/main/images/middleCharacter.png)
 ![Character 3](https://raw.githubusercontent.com/axelcarapinha/Assembly-Character-Identifier/main/images/rightCharacter.png)
