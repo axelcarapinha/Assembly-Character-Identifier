@@ -15,11 +15,11 @@ College project made with Assembly RISC-V to identify a character in a specific 
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Installation (ImageMagick)">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#results">Usage</a></li>
+    <li><a href="#results">Results</a></li>
   </ol>
 </details>
 
